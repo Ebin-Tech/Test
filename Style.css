@@ -35,10 +35,8 @@ body{
 #Btn{
     background-color: White; /* Green */
     text-align: center;
-    position:fixed;
     padding: 14px 40px;
-    bottom:250px;
-    left: 780px;
+   
 }
 #Btn:hover {
     background-color:black; /* Green */
