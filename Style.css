@@ -36,6 +36,7 @@ body{
     background-color: White; /* Green */
     text-align: center;
     padding: 14px 40px;
+    margin-left:40%;
 }
 #Btn:hover {
     background-color:black; /* Green */
